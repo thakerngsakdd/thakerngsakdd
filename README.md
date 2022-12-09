@@ -18,10 +18,10 @@ I came to do the part  Inventory report page, Login page and Upload & download f
 - Upload & Download File Report 
 ### Screenshots
 ![Employee data](Img/Log.png?raw=true "Login")
-![Employee data](Img/intake.png?raw=true "Intake")
+![Employee data](Img/in.png?raw=true "Intake")
 ![Employee data](Img/out.png?raw=true "Outtake")
 ![Employee data](Img/inventory.png?raw=true "Inventory")
-![Employee data](Img/re.png?raw=true "Report")
+![Employee data](Img/report.png?raw=true "Report")
 <!--
 **thakerngsakdd/thakerngsakdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
