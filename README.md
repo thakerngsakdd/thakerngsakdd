@@ -1,8 +1,22 @@
 # Hi I'm Thakerngsak, Welcome to my Github profile 👋
 
-Now I work in the position Programmer in Kerry Logistics 
+### Now I work in the position Programmer in Kerry Logistics 
 
+### This project I'm Develop  
+I came to do the part  Inventory report page, Login page and Upload & download file report page 
+### Project Ksync
 
+### General Information
+- Search Inbound Report
+- Search Outbound Report 
+- Search Inventory Report
+- Upload & Download File Report 
+### Screenshots
+![Employee data](Img/login.png?raw=true "Login")
+![Employee data](Img/intake.png?raw=true "Intake")
+![Employee data](Img/out.png?raw=true "Outtake")
+![Employee data](Img/Inventory.png?raw=true "Inventory")
+![Employee data](Img/re.png?raw=true "Report")
 <!--
 **thakerngsakdd/thakerngsakdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
