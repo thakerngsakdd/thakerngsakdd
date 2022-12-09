@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi I'm Thakerngsak, Welcome to my Github profile 👋
+
+Now I work in the position Programmer in Kerry Logistics 
+
 
 <!--
 **thakerngsakdd/thakerngsakdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
