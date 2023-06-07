@@ -16,12 +16,12 @@
 > - Search Outbound Report 
 > - Search Inventory Report
 > - Upload & Download File Report 
-### Screenshots
+<!-- ### Screenshots
 ![Employee data](Img/Log.png?raw=true "Login")
 ![Employee data](Img/in.png?raw=true "Intake")
 ![Employee data](Img/out.png?raw=true "Outtake")
 ![Employee data](Img/inventory.png?raw=true "Inventory")
-![Employee data](Img/report.png?raw=true "Report")
+![Employee data](Img/report.png?raw=true "Report") -->
 <!--
 **thakerngsakdd/thakerngsakdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
