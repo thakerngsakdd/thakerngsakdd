@@ -8,14 +8,14 @@
 
 ### Now I work in the position Programmer in Kerry Logistics 
 ![Employee data](Img/logo.png?raw=true "Login")
-### This project I'm Develop  
+<!--### This project I'm Develop  
 ### Project Ksync
 > I came to do the part  Inventory report page, Login page and Upload & download file report page 
 ### General Information
 > - Search Inbound Report
 > - Search Outbound Report 
 > - Search Inventory Report
-> - Upload & Download File Report 
+> - Upload & Download File Report  -->
 <!-- ### Screenshots
 ![Employee data](Img/Log.png?raw=true "Login")
 ![Employee data](Img/in.png?raw=true "Intake")
