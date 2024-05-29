@@ -2,9 +2,7 @@
 
 ### Contact
 
-> - 📱 : [@Thakerngsak.D](https://www.instagram.com/klaosan/)
-> - 💻 : [GitLab](https://gitlab.com/thakerngsak.du)
-> - 📧 : [Email](TDumrongmun@Kerrylogistics.com)
+
 
 ### Now I work in the position Programmer in Kerry Logistics 
 ![Employee data](Img/logo.png?raw=true "Login")
